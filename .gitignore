@@ -1,0 +1,28 @@
+# Secrets / local config
+db_config.ini
+
+# Runtime files created by the app
+rma_app.log
+attachments/
+config/
+bom/
+
+# Exports
+RMA_Report_*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Packaging output
+build/
+dist/
+*.spec
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
