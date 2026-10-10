@@ -1,0 +1,14 @@
+; Copy this file to "db_config.ini" (same folder as rma_app.py) and edit.
+; db_config.ini is git-ignored - never commit real credentials.
+
+[database]
+server = YOUR_SERVER\INSTANCE
+database = RMA_DB
+driver = ODBC Driver 17 for SQL Server
+
+; Windows authentication (default):
+trusted_connection = yes
+
+; SQL authentication - set trusted_connection = no and uncomment:
+; username = rma_user
+; password = your_password

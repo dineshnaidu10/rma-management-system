@@ -1,0 +1,4 @@
+openpyxl>=3.1
+pyodbc>=5.0
+tkcalendar>=1.6      # optional: nicer date picker (falls back to built-in)
+pillow>=10.0         # optional: image thumbnails for attachments
