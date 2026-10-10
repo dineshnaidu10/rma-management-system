@@ -2,7 +2,7 @@
 
 A single-file **Python / Tkinter** desktop application for managing **RMA (Return Material Authorization)** repairs in **SMT / PCBA electronics manufacturing**, backed by **Microsoft SQL Server**.
 
-> Version 2.0.0 · MIT License · Windows is the primary target (Linux works with limitations, see [Platform notes](#platform-notes))
+> Version 1.0.0 · MIT License · Windows is the primary target (Linux works with limitations, see [Platform notes](#platform-notes))
 
 <!-- Add screenshots to docs/screenshots/ and uncomment:
 ![Dashboard](docs/screenshots/dashboard.png)
@@ -176,7 +176,7 @@ Issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). Pl
 
 ## License
 
-[MIT](LICENSE) © 2026 YOUR NAME
+[MIT](LICENSE) © 2026 Dinesh Naidu
 
 ## Disclaimer
 
